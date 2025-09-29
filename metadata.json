@@ -4,12 +4,14 @@
       "name": "Tor Browser",
        "pname": "Tor.Browser",
       "version": "14.0.1",
+       "icon": "https://github.com/mekau83-glitch/noid-store/releases/download/first/app.png",
       "url": "https://github.com/mekau83-glitch/noid-store/releases/download/first/tor-browser-android-aarch64-14.0.1.apk"
     },
     {
       "name": "Another App",
        "pname": "com.abc",
       "version": "1.0.0",
+        "icon": "https://github.com/mekau83-glitch/noid-store/releases/download/first/appp.png",
       "url": "https://github.com/mekau83-glitch/noid-store/releases/download/first/another_app.apk"
     }
   ]
