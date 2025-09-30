@@ -3,6 +3,7 @@
   "apps": [
     {
       "name": "Tor Browser",
+      "desc": "Lorem impsa jashdjas jhh",
       "pname": "com.android.messaging",
       "version": "14.0.1",
       "icon": "tor.png",
@@ -10,6 +11,7 @@
     },
         {
       "name": "Tor2",
+                "desc": "Lorem impsa jashdjas jhh",
       "pname": "com.koushikdutta.vysor",
       "version": "14.0.1",
       "icon": "tor.png",
@@ -17,6 +19,7 @@
     },
     {
       "name": "Another App",
+            "desc": "Lorem impsa jashdjas jhh",
       "pname": "com.abc",
       "version": "1.0.0",
       "icon": "appp.png",
