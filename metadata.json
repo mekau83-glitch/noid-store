@@ -3,7 +3,7 @@
   "apps": [
     {
       "name": "Tor Browser",
-      "pname": "Tor.Browser",
+      "pname": "com.android.messaging",
       "version": "14.0.1",
       "icon": "tor.png",
       "filename": "tor.apk"
