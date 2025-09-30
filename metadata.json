@@ -8,6 +8,13 @@
       "icon": "tor.png",
       "filename": "tor.apk"
     },
+        {
+      "name": "Tor2",
+      "pname": "com.android.messaging",
+      "version": "14.0.1",
+      "icon": "tor.png",
+      "filename": "tor.apk"
+    },
     {
       "name": "Another App",
       "pname": "com.abc",
