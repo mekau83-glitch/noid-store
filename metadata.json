@@ -5,7 +5,7 @@
       "name": "Tor Browser",
       "pname": "Tor.Browser",
       "version": "14.0.1",
-      "icon": "app.png",
+      "icon": "tor.png",
       "filename": "tor.apk"
     },
     {
