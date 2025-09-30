@@ -10,7 +10,7 @@
     },
         {
       "name": "Tor2",
-      "pname": "com.android.messaging",
+      "pname": "com.koushikdutta.vysor",
       "version": "14.0.1",
       "icon": "tor.png",
       "filename": "tor.apk"
