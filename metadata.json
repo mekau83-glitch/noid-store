@@ -25,5 +25,45 @@
       "icon": "notes.png",
       "filename": "Simplenote-release.apk"
     }
+    {
+      "name": "Cellcrypt Enterprise",
+            "desc": "",
+      "pname": "com.cellcrypt.nextgen",
+      "version": "400970000",
+      "icon": "cellcrypt.png",
+      "filename": "Cellcrypt.Enterprise_4.97.0.apk"
+    }
+    {
+      "name": "SecureCrypt",
+            "desc": "",
+      "pname": "com.app.securecryptandroidpro",
+      "version": "1",
+      "icon": "SecureCrypt.png",
+      "filename": "com.app.securecryptandroidpro_1.9.3.apk"
+    }
+    {
+      "name": "PlanetGPS",
+            "desc": "",
+      "pname": "com.planetgps.app",
+      "version": "62",
+      "icon": "PlanetGPS.png",
+      "filename": "com.planetgps.app_2.0.11.apk"
+    }
+    {
+      "name": "Molly",
+            "desc": "",
+      "pname": "im.molly.app",
+      "version": "156301",
+      "icon": "Molly.png",
+      "filename": "Molly-v7.49.1-1.apk"
+    }
+    {
+      "name": "Mullvadv VPN",
+            "desc": "",
+      "pname": "net.mullvad.mullvadvpn",
+      "version": "24040002",
+      "icon": "MullvadVPN.png",
+      "filename": "net.mullvad.mullvadvpn_24040002.apk"
+    }
   ]
 }
