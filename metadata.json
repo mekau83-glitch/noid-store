@@ -80,6 +80,54 @@
       "version": "24",
       "icon": "kryptEY.png",
       "filename": "com.amnesica.kryptey_v0.1.5-release.apk"
+    },
+    {
+      "name": "Safe Notes",
+            "desc": "",
+      "pname": "com.trisven.safenotes",
+      "version": "10",
+      "icon": "SafeNotes.png",
+      "filename": "safenotes-2.3.0-all.apk"
+    },
+    {
+      "name": "Snapchat",
+            "desc": "",
+      "pname": "com.snapchat.android",
+      "version": "157172",
+      "icon": "Snapchat.png",
+      "filename": "Snapchat_13.7.0.42_APKPure.apk"
+    },
+    {
+      "name": "Telegram",
+            "desc": "",
+      "pname": "org.telegram.messenger.web",
+      "version": "58379",
+      "icon": "Telegram.png",
+      "filename": "Telegram.apk"
+    },
+    {
+      "name": "Tor Browser",
+            "desc": "",
+      "pname": "org.torproject.torbrowser.sharedID",
+      "version": "2016052810",
+      "icon": "TorBrowser.jpeg",
+      "filename": "tor-browser-android-aarch64-14.0.1.apk"
+    },
+    {
+      "name": "WhatsApp",
+            "desc": "",
+      "pname": "com.whatsapp",
+      "version": "252076010",
+      "icon": "WhatsApp.png",
+      "filename": "WhatsApp.apk"
+    },
+    {
+      "name": "Threema Work",
+            "desc": "",
+      "pname": "ch.threema.app.work",
+      "version": "1052",
+      "icon": "ThreemaWork.png",
+      "filename": "work-universal-release.apk"
     }
   ]
 }
