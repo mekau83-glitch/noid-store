@@ -10,20 +10,20 @@
       "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
     },
         {
-      "name": "Vysor",
-                "desc": "Lorem impsa jashdsadasdjas jhh",
-      "pname": "com.koushikdutta.vysor",
-      "version": "1708394400",
-      "icon": "tor.png",
-      "filename": "tor.apk"
+      "name": "Atomic Waller",
+                "desc": "",
+      "pname": "io.atomicwallet",
+      "version": "13105",
+      "icon": "wallet.png",
+      "filename": "Bitcoin.Wallet.Crypto.Ethereum_1.31.5_APKPure.apk"
     },
     {
-      "name": "Another App",
-            "desc": "Lorem impsa jashdjas jhh",
-      "pname": "com.abc",
-      "version": "1.0.0",
-      "icon": "appp.png",
-      "filename": "currnt.apk"
+      "name": "Simplenote",
+            "desc": "Notes app",
+      "pname": "com.automattic.simplenote",
+      "version": "169",
+      "icon": "notes.png",
+      "filename": "Simplenote-release.apk"
     }
   ]
 }
