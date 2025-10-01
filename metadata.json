@@ -72,6 +72,14 @@
       "version": "10709",
       "icon": "ProtonMail.png",
       "filename": "ProtonMail-4.5.1_10709.apk"
+    },
+    {
+      "name": "KryptEY",
+            "desc": "",
+      "pname": "com.amnesica.kryptey",
+      "version": "24",
+      "icon": "kryptEY.png",
+      "filename": "com.amnesica.kryptey_v0.1.5-release.apk"
     }
   ]
 }
