@@ -1,6 +1,14 @@
 {
   "base_url": "https://github.com/mekau83-glitch/noid-store/releases/download/first/",
   "apps": [
+        {
+      "name": "NOiD",
+      "desc": "",
+      "pname": "com.securenet.chat",
+      "version": "12",
+      "icon": "noid.png",
+      "filename": "noidd.apk"
+    },
     {
       "name": "Calculator",
       "desc": "",
