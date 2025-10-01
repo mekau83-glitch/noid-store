@@ -64,6 +64,14 @@
       "version": "24040002",
       "icon": "MullvadVPN.png",
       "filename": "net.mullvad.mullvadvpn_24040002.apk"
+    },
+    {
+      "name": "Proton Mail",
+            "desc": "",
+      "pname": "ch.protonmail.android",
+      "version": "10709",
+      "icon": "ProtonMail.png",
+      "filename": "ProtonMail-4.5.1_10709.apk"
     }
   ]
 }
