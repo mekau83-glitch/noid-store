@@ -2,12 +2,12 @@
   "base_url": "https://github.com/mekau83-glitch/noid-store/releases/download/first/",
   "apps": [
     {
-      "name": "Tor Browser",
-      "desc": "Lorem impsa jashdjas jhh",
-      "pname": "com.android.messaging",
-      "version": "14.0.1",
-      "icon": "tor.png",
-      "filename": "tor.apk"
+      "name": "Calculator",
+      "desc": "",
+      "pname": "all.in.one.calculator",
+      "version": "228",
+      "icon": "calc.png",
+      "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
     },
         {
       "name": "Vysor",
