@@ -116,7 +116,7 @@
     {
       "name": "Tor Browser",
             "desc": "",
-      "pname": "org.torproject.torbrowser.sharedID",
+      "pname": "org.torproject.torbrowser",
       "version": "2016052810",
       "icon": "TorBrowser.jpeg",
       "filename": "tor-browser-android-aarch64-14.0.1.apk"
