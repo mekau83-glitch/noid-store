@@ -144,6 +144,14 @@
       "version": "1052",
       "icon": "ThreemaWork.png",
       "filename": "work-universal-release.apk"
+      },
+      {
+      "name": "Threema Work 6.8.5k",
+            "desc": "",
+      "pname": "ch.threema.app.work",
+      "version": "6.8.5k",
+      "icon": "ThreemaWork.png",
+      "filename": "googleplay_work-universal-release.apk"
     }
   ]
 }
