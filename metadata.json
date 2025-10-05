@@ -146,10 +146,10 @@
       "filename": "work-universal-release.apk"
       },
       {
-      "name": "Threema Work 6.8.5k",
+      "name": "Threema Work 6.1.3k",
             "desc": "",
       "pname": "ch.threema.app.work",
-      "version": "6.8.5k",
+      "version": "6.1.3k",
       "icon": "ThreemaWork.png",
       "filename": "googleplay_work-universal-release.apk"
     }
