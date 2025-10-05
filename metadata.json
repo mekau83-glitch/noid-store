@@ -136,16 +136,8 @@
       "version": "252076010",
       "icon": "WhatsApp.png",
       "filename": "WhatsApp.apk"
-    },
-    {
-      "name": "Threema Work",
-            "desc": "",
-      "pname": "ch.threema.app.work",
-      "version": "1052",
-      "icon": "ThreemaWork.png",
-      "filename": "work-universal-release.apk"
-      },
-      {
+     },
+     {
       "name": "Threema Work 6.1.3k",
             "desc": "",
       "pname": "ch.threema.app.work",
