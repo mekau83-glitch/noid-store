@@ -9,6 +9,14 @@
       "icon": "noid.png",
       "filename": "noidd.apk"
     },
+        {
+      "name": "Session",
+      "desc": "",
+      "pname": "network.loki.messenger",
+      "version": "4195",
+      "icon": "session.png",
+      "filename": "session-1.27.1-universal-play-release.apk"
+    },
     {
       "name": "Calculator",
       "desc": "",
