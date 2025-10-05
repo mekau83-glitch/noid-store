@@ -25,13 +25,21 @@
       "icon": "calc.png",
       "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
     },
-        {
+    {
       "name": "Atomic Wallet",
                 "desc": "",
       "pname": "io.atomicwallet",
       "version": "13105",
       "icon": "wallet.png",
       "filename": "Bitcoin.Wallet.Crypto.Ethereum_1.31.5_APKPure.apk"
+    },
+    {
+      "name": "atomicwallet-1.36.6",
+                "desc": "",
+      "pname": "io.atomicwallet",
+      "version": "1366",
+      "icon": "wallet.png",
+      "filename": "atomicwallet-1.36.6.apk"
     },
     {
       "name": "Simplenote",
@@ -82,12 +90,28 @@
       "filename": "net.mullvad.mullvadvpn_24040002.apk"
     },
     {
+      "name": "Mullvadv VPN-2025.8",
+            "desc": "",
+      "pname": "net.mullvad.mullvadvpn",
+      "version": "24040002",
+      "icon": "MullvadVPN.png",
+      "filename": "MullvadVPN-2025.8.apk"
+    },
+    {
       "name": "Proton Mail",
             "desc": "",
       "pname": "ch.protonmail.android",
       "version": "10709",
       "icon": "ProtonMail.png",
       "filename": "ProtonMail-4.5.1_10709.apk"
+    },
+    {
+      "name": "ProtonMail-7.0.11_14528",
+            "desc": "",
+      "pname": "ch.protonmail.android",
+      "version": "7.0.11_14528",
+      "icon": "ProtonMail.png",
+      "filename": "ProtonMail-7.0.11_14528.apk"
     },
     {
       "name": "KryptEY",
@@ -122,6 +146,14 @@
       "filename": "Telegram.apk"
     },
     {
+      "name": "Telegram 12.0.1",
+            "desc": "",
+      "pname": "org.telegram.messenger.web",
+      "version": "12.0.1",
+      "icon": "Telegram.png",
+      "filename": "Telegram2.apk"
+    },
+    {
       "name": "Tor Browser",
             "desc": "",
       "pname": "org.torproject.torbrowser",
@@ -136,6 +168,14 @@
       "version": "252076010",
       "icon": "WhatsApp.png",
       "filename": "WhatsApp.apk"
+     },
+     {
+      "name": "WhatsApp 2.25.27.82",
+            "desc": "",
+      "pname": "com.whatsapp",
+      "version": "2252782",
+      "icon": "WhatsApp.png",
+      "filename": "WhatsApp2.apk"
      },
      {
       "name": "Threema Work 6.1.3k",
