@@ -26,14 +26,6 @@
       "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
     },
     {
-      "name": "Atomic Wallet",
-                "desc": "",
-      "pname": "io.atomicwallet",
-      "version": "13105",
-      "icon": "wallet.png",
-      "filename": "Bitcoin.Wallet.Crypto.Ethereum_1.31.5_APKPure.apk"
-    },
-    {
       "name": "atomicwallet-1.36.6",
                 "desc": "",
       "pname": "io.atomicwallet",
@@ -74,20 +66,12 @@
       "filename": "com.planetgps.app_2.0.11.apk"
     },
     {
-      "name": "Molly",
+      "name": "Molly v7.49.1-1",
             "desc": "",
       "pname": "im.molly.app",
       "version": "156301",
       "icon": "Molly.png",
       "filename": "Molly-v7.49.1-1.apk"
-    },
-    {
-      "name": "Mullvadv VPN",
-            "desc": "",
-      "pname": "net.mullvad.mullvadvpn",
-      "version": "24040002",
-      "icon": "MullvadVPN.png",
-      "filename": "net.mullvad.mullvadvpn_24040002.apk"
     },
     {
       "name": "Mullvadv VPN-2025.8",
@@ -96,14 +80,6 @@
       "version": "24040002",
       "icon": "MullvadVPN.png",
       "filename": "MullvadVPN-2025.8.apk"
-    },
-    {
-      "name": "Proton Mail",
-            "desc": "",
-      "pname": "ch.protonmail.android",
-      "version": "10709",
-      "icon": "ProtonMail.png",
-      "filename": "ProtonMail-4.5.1_10709.apk"
     },
     {
       "name": "ProtonMail-7.0.11_14528",
@@ -138,14 +114,6 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram",
-            "desc": "",
-      "pname": "org.telegram.messenger.web",
-      "version": "58379",
-      "icon": "Telegram.png",
-      "filename": "Telegram.apk"
-    },
-    {
       "name": "Telegram 12.0.1",
             "desc": "",
       "pname": "org.telegram.messenger.web",
@@ -160,14 +128,6 @@
       "version": "2016052810",
       "icon": "TorBrowser.jpeg",
       "filename": "tor-browser-android-aarch64-14.0.1.apk"
-    },
-    {
-      "name": "WhatsApp",
-            "desc": "",
-      "pname": "com.whatsapp",
-      "version": "252076010",
-      "icon": "WhatsApp.png",
-      "filename": "WhatsApp.apk"
      },
      {
       "name": "WhatsApp 2.25.27.82",
