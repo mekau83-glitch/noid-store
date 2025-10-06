@@ -29,7 +29,7 @@
       "name": "atomicwallet-1.36.6",
                 "desc": "",
       "pname": "io.atomicwallet",
-      "version": "1366",
+      "version": "13606",
       "icon": "wallet.png",
       "filename": "atomicwallet-1.36.6.apk"
     },
@@ -85,7 +85,7 @@
       "name": "ProtonMail-7.0.11_14528",
             "desc": "",
       "pname": "ch.protonmail.android",
-      "version": "7.0.11_14528",
+      "version": "14528",
       "icon": "ProtonMail.png",
       "filename": "ProtonMail-7.0.11_14528.apk"
     },
@@ -117,7 +117,7 @@
       "name": "Telegram 12.0.1",
             "desc": "",
       "pname": "org.telegram.messenger.web",
-      "version": "12.0.1",
+      "version": "61669",
       "icon": "Telegram.png",
       "filename": "Telegram2.apk"
     },
@@ -133,7 +133,7 @@
       "name": "WhatsApp 2.25.27.82",
             "desc": "",
       "pname": "com.whatsapp",
-      "version": "2252782",
+      "version": "252782010",
       "icon": "WhatsApp.png",
       "filename": "WhatsApp2.apk"
      },
@@ -141,7 +141,7 @@
       "name": "Threema Work 6.1.3k",
             "desc": "",
       "pname": "ch.threema.app.work",
-      "version": "6.1.3k",
+      "version": "1087",
       "icon": "ThreemaWork.png",
       "filename": "googleplay_work-universal-release.apk"
     }
