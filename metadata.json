@@ -89,6 +89,14 @@
       "icon": "ProtonMail.png",
       "filename": "ProtonMail-7.0.11_14528.apk"
     },
+        {
+      "name": "Threema Libre ",
+            "desc": "Secure and private messaging",
+      "pname": "ch.threema.app.libre",
+      "version": "6.2.1l",
+      "icon": "threema_libre.png",
+      "filename": "threema_libre.apk"
+    },
     {
       "name": "KryptEY",
             "desc": "",
