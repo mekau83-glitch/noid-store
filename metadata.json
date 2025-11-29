@@ -122,12 +122,12 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.0.1",
+      "name": "Telegram 12.2.6",
             "desc": "",
       "pname": "org.telegram.messenger.web",
-      "version": "61669",
+      "version": "6319",
       "icon": "Telegram.png",
-      "filename": "Telegram2.apk"
+      "filename": "Telegram.apk"
     },
     {
       "name": "Tor Browser",
