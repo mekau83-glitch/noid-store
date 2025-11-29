@@ -164,7 +164,7 @@
       {
       "name": Standard Notes",
             "desc": "",
-      "pname": "base.apk",
+      "pname": "app.standardnotes.com",
       "version": "3.201.2",
       "icon": "standard.png",
       "filename": "app-prod-release.apk"
