@@ -160,6 +160,14 @@
       "version": "315.251125.0",
       "icon": "Tuta.png",
       "filename": "Tuta_.Secure.Private.Mail_315.251125.0.apk"
+      },
+      {
+      "name": Standard Notes",
+            "desc": "",
+      "pname": "base.apk",
+      "version": "3.201.2",
+      "icon": "standard.png",
+      "filename": "app-prod-release.apk"
     }
   ]
 }
