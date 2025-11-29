@@ -19,7 +19,7 @@
     },
     {
       "name": "Calculator",
-      "desc": "",
+      "desc": "An all in one calculator with currency exchange calculator",
       "pname": "all.in.one.calculator",
       "version": "228",
       "icon": "calc.png",
