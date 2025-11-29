@@ -3,7 +3,7 @@
   "apps": [
         {
       "name": "NOiD",
-      "desc": "",
+      "desc": "Local Messaging App",
       "pname": "com.securenet.chat",
       "version": "13",
       "icon": "noid.png",
@@ -11,7 +11,7 @@
     },
         {
       "name": "Session",
-      "desc": "",
+      "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
       "version": "4195",
       "icon": "session.png",
@@ -27,7 +27,7 @@
     },
     {
       "name": "atomicwallet-1.36.6",
-                "desc": "",
+                "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
       "pname": "io.atomicwallet",
       "version": "13606",
       "icon": "wallet.png",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Simplenote",
-            "desc": "Notes app",
+            "desc": "Cloud notes app",
       "pname": "com.automattic.simplenote",
       "version": "169",
       "icon": "notes.png",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Cellcrypt Enterprise",
-            "desc": "",
+            "desc": "Military-grade encrypted calls, messaging and file transfer with dual-layer post-quantum protection (Kyber + Classic McEliece).",
       "pname": "com.cellcrypt.nextgen",
       "version": "400970000",
       "icon": "cellcrypt.png",
@@ -51,7 +51,7 @@
     },
     {
       "name": "SecureCrypt",
-            "desc": "",
+            "desc": "SecureCrypt features industry leading security features and strong, E2EE to secure global voice and data communications.",
       "pname": "com.app.securecryptandroidpro",
       "version": "1",
       "icon": "SecureCrypt.png",
@@ -59,7 +59,7 @@
     },
     {
       "name": "PlanetGPS",
-            "desc": "",
+            "desc": "Protect your business with the best truck GPS tracker in Canada. We provide a complete tracking tool that you can access anywhere you are!",
       "pname": "com.planetgps.app",
       "version": "62",
       "icon": "PlanetGPS.png",
@@ -67,7 +67,7 @@
     },
     {
       "name": "Molly",
-            "desc": "",
+            "desc": "Molly is an independent Signal fork for Android with improved features: Fully FOSS, Contains no proprietary blobs, unlike Signal, Encrypted, Protects database with Local Encryption",
       "pname": "im.molly.app",
       "version": "161101",
       "icon": "Molly.png",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Mullvadv VPN-2025.8",
-            "desc": "",
+            "desc": "Free the internet from mass surveillance and censorship. Fight for privacy with Mullvad VPN",
       "pname": "net.mullvad.mullvadvpn",
       "version": "2025.8",
       "icon": "MullvadVPN.png",
@@ -83,7 +83,7 @@
     },
     {
       "name": "ProtonMail-7.0.11_14528",
-            "desc": "",
+            "desc": "ProtonMail is a highly-regarded email service for users prioritizing privacy and security due to its end-to-end encryption and Swiss jurisdiction",
       "pname": "ch.protonmail.android",
       "version": "14528",
       "icon": "ProtonMail.png",
@@ -91,7 +91,7 @@
     },
         {
       "name": "Threema Libre ",
-            "desc": "Secure and private messaging",
+            "desc": "Personal Secure and private messaging",
       "pname": "ch.threema.app.libre",
       "version": "1086",
       "icon": "threema_libre.png",
@@ -99,7 +99,7 @@
     },
     {
       "name": "KryptEY",
-            "desc": "",
+            "desc": "Encrypted Keyboard",
       "pname": "com.amnesica.kryptey",
       "version": "24",
       "icon": "kryptEY.png",
@@ -107,7 +107,7 @@
     },
     {
       "name": "Safe Notes",
-            "desc": "",
+            "desc": "Local Notes Application",
       "pname": "com.trisven.safenotes",
       "version": "10",
       "icon": "SafeNotes.png",
@@ -131,7 +131,7 @@
     },
     {
       "name": "Tor Browser",
-            "desc": "",
+            "desc": "Deep Web Browser",
       "pname": "org.torproject.torbrowser",
       "version": "2016052810",
       "icon": "TorBrowser.jpeg",
@@ -147,7 +147,7 @@
      },
      {
       "name": "Threema Work 6.1.3k",
-            "desc": "",
+            "desc": "Enterprise Secure and private messaging",
       "pname": "ch.threema.app.work",
       "version": "1087",
       "icon": "ThreemaWork.png",
@@ -155,7 +155,7 @@
       },
       {
       "name": "Tuta Mail",
-            "desc": "",
+            "desc": "Tuta automatically encrypts all your data end-to-end with post-quantum cryptography which makes it the safest email provider.",
       "pname": "app.tuta.com",
       "version": "315.251125.0",
       "icon": "Tuta.png",
@@ -163,7 +163,7 @@
       },
       {
       "name": "Standard Notes",
-            "desc": "",
+            "desc": "Best notes application with cloud save",
       "pname": "app.standardnotes.com",
       "version": "3.201.2",
       "icon": "standard.png",
