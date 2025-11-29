@@ -152,6 +152,14 @@
       "version": "1087",
       "icon": "ThreemaWork.png",
       "filename": "googleplay_work-universal-release.apk"
+      },
+      {
+      "name": "Tuta Mail",
+            "desc": "",
+      "pname": "app.tuta.com",
+      "version": "315.251125.0",
+      "icon": "Tuta.png",
+      "filename": "Tuta_.Secure.Private.Mail_315.251125.0.apk"
     }
   ]
 }
