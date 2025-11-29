@@ -13,9 +13,9 @@
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
-      "version": "4195",
+      "version": "4325",
       "icon": "session.png",
-      "filename": "session-1.27.1-universal-play-release.apk"
+      "filename": "session-1.29.3-universal-play-release.apk"
     },
     {
       "name": "Calculator",
