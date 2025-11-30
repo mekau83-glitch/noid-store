@@ -9,7 +9,7 @@
       "icon": "noid.png",
       "filename": "noidd.apk"
     },
-        {
+    {
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
@@ -89,7 +89,7 @@
       "icon": "ProtonMail.png",
       "filename": "ProtonMail-7.0.11_14528.apk"
     },
-        {
+    {
       "name": "Threema Libre ",
             "desc": "Personal Secure and private messaging",
       "pname": "ch.threema.app.libre",
