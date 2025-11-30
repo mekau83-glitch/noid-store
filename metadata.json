@@ -157,7 +157,7 @@
       "name": "Tuta Mail",
             "desc": "Tuta automatically encrypts all your data end-to-end with post-quantum cryptography which makes it the safest email provider.",
       "pname": "app.tuta.com",
-      "version": "315.251125.0",
+      "version": "396564",
       "icon": "Tuta.png",
       "filename": "Tuta_.Secure.Private.Mail_315.251125.0.apk"
       },
@@ -165,7 +165,7 @@
       "name": "Standard Notes",
             "desc": "Best notes application with cloud save",
       "pname": "app.standardnotes.com",
-      "version": "3.201.2",
+      "version": "3005189",
       "icon": "standard.png",
       "filename": "app-prod-release.apk"
     }
