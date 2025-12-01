@@ -26,12 +26,12 @@
       "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
     },
     {
-      "name": "atomicwallet-1.36.6",
+      "name": "Atomic wallet",
                 "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
       "pname": "io.atomicwallet",
-      "version": "13606",
+      "version": "13902",
       "icon": "wallet.png",
-      "filename": "atomicwallet-1.36.6.apk"
+      "filename": "atomicwallet-1.39.2.apk"
     },
     {
       "name": "Simplenote",
