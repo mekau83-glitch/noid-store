@@ -162,12 +162,12 @@
       "filename": "Tuta_.Secure.Private.Mail_315.251125.0.apk"
       },
       {
-      "name": "Standard Notes",
-            "desc": "Best notes application with cloud save",
-      "pname": "com.standardnotes",
-      "version": "3005189",
-      "icon": "standard.png",
-      "filename": "app-prod-release.apk"
+      "name": "XAP install",
+            "desc": "file install",
+      "pname": "com.wuliang.xapkinstaller",
+      "version": "162",
+      "icon": "xapk.png",
+      "filename": "XAPK.Installer_4.6.4.1.apk"
     }
   ]
 }
