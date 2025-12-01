@@ -3,11 +3,11 @@
   "apps": [
         {
       "name": "NOiD",
-      "desc": "Local Messaging App",
+      "desc": "Local encypted Messaging App Updated remote wipe",
       "pname": "com.securenet.chat",
       "version": "13",
       "icon": "noid.png",
-      "filename": "noidd.apk"
+      "filename": "NOiD_broadcast.duress.wipe.apk"
     },
     {
       "name": "Session",
@@ -164,7 +164,7 @@
       {
       "name": "Standard Notes",
             "desc": "Best notes application with cloud save",
-      "pname": "app.standardnotes.com",
+      "pname": "com.standardnotes",
       "version": "3005189",
       "icon": "standard.png",
       "filename": "app-prod-release.apk"
