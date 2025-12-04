@@ -45,9 +45,9 @@
       "name": "Cellcrypt Enterprise",
             "desc": "Military-grade encrypted calls, messaging and file transfer with dual-layer post-quantum protection (Kyber + Classic McEliece).",
       "pname": "com.cellcrypt.nextgen",
-      "version": "400970000",
+      "version": "401600001",
       "icon": "cellcrypt.png",
-      "filename": "Cellcrypt.Enterprise_4.97.0.apk"
+      "filename": "Cellcrypt_Enterprise.apk"
     },
     {
       "name": "SecureCrypt",
