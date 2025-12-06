@@ -2,12 +2,12 @@
   "base_url": "https://github.com/mekau83-glitch/noid-store/releases/download/first/",
   "apps": [
         {
-      "name": "NOiD",
-      "desc": "Local encypted Messaging App Updated remote wipe",
-      "pname": "com.securenet.chat",
-      "version": "14",
-      "icon": "noid.png",
-      "filename": "NOiD_broadcast.duress.wipe.apk"
+      "name": "NOiD Store",
+      "desc": "The Official NOiD App Store",
+      "pname": "app.grapheneos.apps",
+      "version": "2",
+      "icon": "store.png",
+      "filename": "NOiD_Store.apk"
     },
     {
       "name": "Session",
@@ -32,6 +32,14 @@
       "version": "13902",
       "icon": "wallet.png",
       "filename": "atomicwallet-1.39.2.apk"
+    },
+          {
+      "name": "NOiD",
+      "desc": "Local encypted Messaging App Updated remote wipe",
+      "pname": "com.securenet.chat",
+      "version": "13",
+      "icon": "noid.png",
+      "filename": "NOiD_broadcast.duress.wipe.apk"
     },
     {
       "name": "Simplenote",
