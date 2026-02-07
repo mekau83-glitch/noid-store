@@ -27,11 +27,11 @@
     },
           {
       "name": "NOiD",
-      "desc": "Local encypted Messaging App Updated remote wipe",
+      "desc": "MAJOR UPDATE, Updated User Interface with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. To install, please uninstall previous version and install this version and accept and activate all permissions",
       "pname": "com.securenet.chat",
-      "version": "13",
+      "version": "14",
       "icon": "noid.png",
-      "filename": "NOiD_broadcast.duress.wipe.apk"
+      "filename": "NOiD_keyexchange_protocol_editmessage_mediaviewonce.apk"
     },
     {
       "name": "Simplenote",
