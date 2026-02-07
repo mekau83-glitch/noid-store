@@ -21,9 +21,9 @@
       "name": "Atomic wallet",
                 "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
       "pname": "io.atomicwallet",
-      "version": "13902",
+      "version": "13904",
       "icon": "wallet.png",
-      "filename": "atomicwallet-1.39.2.apk"
+      "filename": "atomicwallet-1.39.4.apk"
     },
           {
       "name": "NOiD",
@@ -130,10 +130,10 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.2.6",
-            "desc": "",
+      "name": "Telegram 12.4.0",
+            "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "63239",
+      "version": "65052",
       "icon": "Telegram.png",
       "filename": "Telegram.apk"
     },
