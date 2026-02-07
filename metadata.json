@@ -18,14 +18,6 @@
       "filename": "session-1.29.3-universal-play-release.apk"
     },
     {
-      "name": "Calculator",
-      "desc": "An all in one calculator with currency exchange calculator",
-      "pname": "all.in.one.calculator",
-      "version": "228",
-      "icon": "calc.png",
-      "filename": "All-In-One.Calculator_2.2.8_APKPure.apk"
-    },
-    {
       "name": "Atomic wallet",
                 "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
       "pname": "io.atomicwallet",
