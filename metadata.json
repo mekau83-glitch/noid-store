@@ -133,7 +133,7 @@
       "name": "Telegram 12.4.0",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "65052",
+      "version": "65109",
       "icon": "Telegram.png",
       "filename": "Telegram.apk"
     },
