@@ -29,9 +29,9 @@
       "name": "NOiD",
       "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. To install, please uninstall previous version and install this version and accept and activate all permissions",
       "pname": "com.securenet.chat",
-      "version": "14",
+      "version": "15",
       "icon": "noid.png",
-      "filename": "NOiD_keyexchange_protocol_editmessage_mediaviewonce.apk"
+      "filename": "NOiD_new_update_1.2.0+15.apk"
     },
     {
       "name": "Simplenote",
