@@ -27,7 +27,7 @@
     },
           {
       "name": "NOiD",
-      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. To install, please uninstall previous version and install this version and accept and activate all permissions. (14/02/26) latest patch updates fix message lag and fixes media download. (17/02/26) Latest patch update fix disappearing timer and function",
+      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. To install, please uninstall previous version and install this version and accept and activate all permissions. (14/02/26) latest patch updates fix message lag and fixes media download. (17/02/26) Latest patch update fix disappearing timer and function.",
       "pname": "com.securenet.chat",
       "version": "17",
       "icon": "noid.png",
