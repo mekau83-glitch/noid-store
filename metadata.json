@@ -91,7 +91,7 @@
     },
     {
       "name": "Protocol by NOiD",
-            "desc": "Protocol by NOid, utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate."
+            "desc": "Protocol by NOid, utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate",
       "pname": "com.securenet.protocol",
       "version": "64",
       "icon": "Protocol1.png",
