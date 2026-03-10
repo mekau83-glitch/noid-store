@@ -138,10 +138,10 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.4.0",
+      "name": "Telegram 12.5.0",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "65109",
+      "version": "65809",
       "icon": "Telegram.png",
       "filename": "Telegram.apk"
     },
@@ -154,12 +154,12 @@
       "filename": "tor-browser-android-aarch64-14.0.1.apk"
      },
      {
-      "name": "WhatsApp 2.25.27.82",
+      "name": "WhatsApp 2.26.9.73",
             "desc": "",
       "pname": "com.whatsapp",
-      "version": "252782010",
+      "version": "260907304",
       "icon": "WhatsApp.png",
-      "filename": "WhatsApp2.apk"
+      "filename": "WhatsApp.apk"
      },
      {
       "name": "Threema Work 6.1.3k",
