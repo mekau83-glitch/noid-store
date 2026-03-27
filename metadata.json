@@ -99,7 +99,7 @@
     },
     {
       "name": "Threema Libre ",
-            "desc": "Personal Secure and private messaging",
+            "desc": "In Threema Libre, there’s no single line of code that would require a proprietary software library from Google or any other third party. Push notifications, for example, will only be delivered using Threema Push, and a fallback to Google’s push service is ruled out from the outset. Since Threema Libre also supports reproducible builds, it’s comparatively easy to verify that the installed app cannot leak any data to Google. And because the whole code including all components is open source, the app can be audited in its entirety.",
       "pname": "ch.threema.app.libre",
       "version": "1118",
       "icon": "threema_libre.png",
