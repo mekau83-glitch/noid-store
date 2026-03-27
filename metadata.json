@@ -13,9 +13,9 @@
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
-      "version": "4325",
+      "version": "4455",
       "icon": "session.png",
-      "filename": "session-1.29.3-universal-play-release.apk"
+      "filename": "session-1.32.2-universal-play-release.apk"
     },
     {
       "name": "Atomic wallet",
@@ -69,9 +69,9 @@
       "name": "Molly",
             "desc": "Molly is an independent Signal fork for Android with improved features: Fully FOSS, Contains no proprietary blobs, unlike Signal, Encrypted, Protects database with Local Encryption",
       "pname": "im.molly.app",
-      "version": "164401",
+      "version": "166303",
       "icon": "Molly.png",
-      "filename": "Molly-v7.72.2-1.apk"
+      "filename": "Molly-v8.2.2-3.apk"
     },
     {
       "name": "Mullvadv VPN-2025.8",
@@ -101,9 +101,9 @@
       "name": "Threema Libre ",
             "desc": "Personal Secure and private messaging",
       "pname": "ch.threema.app.libre",
-      "version": "1086",
+      "version": "1118",
       "icon": "threema_libre.png",
-      "filename": "threema_libre.apk"
+      "filename": "Threema-libre.apk"
     },
     {
       "name": "KryptEY",
@@ -138,12 +138,12 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.5.0",
+      "name": "Telegram 12.5.2",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "65809",
+      "version": "65979",
       "icon": "Telegram.png",
-      "filename": "Telegram.apk"
+      "filename": "Telegram.1.apk"
     },
     {
       "name": "Tor Browser",
