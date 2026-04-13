@@ -146,12 +146,12 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.5.2",
+      "name": "Telegram 12.6.4",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "65979",
+      "version": "66669",
       "icon": "Telegram.png",
-      "filename": "Telegram.1.apk"
+      "filename": "Telegram.apk"
     },
     {
       "name": "Tor Browser",
