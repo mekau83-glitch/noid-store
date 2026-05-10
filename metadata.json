@@ -21,9 +21,9 @@
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
-      "version": "4455",
+      "version": "4515",
       "icon": "session.png",
-      "filename": "session-1.32.2-universal-play-release.apk"
+      "filename": "session-1.33.4-universal-play-release.apk"
     },
     {
       "name": "Atomic wallet",
@@ -35,11 +35,11 @@
     },
           {
       "name": "NOiD",
-      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. To install, please uninstall previous version and install this version and accept and activate all permissions. (14/02/26) latest patch updates fix message lag and fixes media download. (17/02/26) Latest patch update fix disappearing timer and function.",
+      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (10/05/26) latest patch updates fix group message dissappearing timer, UI update with new themes, QR contact add function",
       "pname": "com.securenet.chat",
-      "version": "17",
+      "version": "19",
       "icon": "noid.png",
-      "filename": "NOiD_1.2.2+17.apk"
+      "filename": "NOiD_1.2.4+19.apk"
     },
     {
       "name": "Simplenote",
@@ -77,9 +77,9 @@
       "name": "Molly",
             "desc": "Molly is an independent Signal fork for Android with improved features: Fully FOSS, Contains no proprietary blobs, unlike Signal, Encrypted, Protects database with Local Encryption",
       "pname": "im.molly.app",
-      "version": "166303",
+      "version": "167902",
       "icon": "Molly.png",
-      "filename": "Molly-v8.2.2-3.apk"
+      "filename": "Molly-v8.7.3-2.apk"
     },
     {
       "name": "Mullvadv VPN-2025.8",
@@ -146,12 +146,12 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.6.4",
+      "name": "Telegram 12.7.2",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "66669",
+      "version": "67439",
       "icon": "Telegram.png",
-      "filename": "Telegram.apk"
+      "filename": "Telegram1.apk"
     },
     {
       "name": "Tor Browser",
