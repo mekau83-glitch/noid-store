@@ -18,6 +18,14 @@
       "filename": "com.cheogram.android_4206404.apk"
     },
     {
+      "name": "Signal v8.9.1",
+      "desc": "Signal is an open-source, encrypted messaging service for instant messaging, voice calls, and video calls. The instant messaging function includes sending text, voice notes, images, videos, and other files. Communication may be one-to-one between users or may involve group messaging",
+      "pname": "org.thoughtcrime.securesms",
+      "version": "168401",
+      "icon": "signal.png",
+      "filename": "Signal-Android-website-prod-universal-release-8.9.1.apk"
+      },
+    {
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
