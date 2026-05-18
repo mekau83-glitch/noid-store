@@ -162,6 +162,14 @@
       "filename": "Telegram1.apk"
     },
     {
+      "name": "Telegram-X-0.28.3.1785",
+            "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
+      "pname": "org.thunderdog.challegram",
+      "version": "1785200",
+      "icon": "Telegramx.png",
+      "filename": "Telegram-X-0.28.3.1785.apk"
+    },
+    {
       "name": "Tor Browser",
             "desc": "Deep Web Browser",
       "pname": "org.torproject.torbrowser",
