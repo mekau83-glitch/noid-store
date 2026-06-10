@@ -34,12 +34,12 @@
       "filename": "session-1.33.4-universal-play-release.apk"
     },
     {
-      "name": "Atomic wallet",
+      "name": "Atomic wallet 1.41.5",
                 "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
       "pname": "io.atomicwallet",
-      "version": "13904",
+      "version": "14105",
       "icon": "wallet.png",
-      "filename": "atomicwallet-1.39.4.apk"
+      "filename": "atomicwallet-1.41.5.apk"
     },
           {
       "name": "NOiD",
@@ -114,12 +114,12 @@
       "filename": "protocol-6.apk"
     },
     {
-      "name": "Threema Libre ",
+      "name": "Threema Libre 6.4.2l",
             "desc": "In Threema Libre, there’s no single line of code that would require a proprietary software library from Google or any other third party. Push notifications, for example, will only be delivered using Threema Push, and a fallback to Google’s push service is ruled out from the outset. Since Threema Libre also supports reproducible builds, it’s comparatively easy to verify that the installed app cannot leak any data to Google. And because the whole code including all components is open source, the app can be audited in its entirety.",
       "pname": "ch.threema.app.libre",
-      "version": "1118",
+      "version": "1142",
       "icon": "threema_libre.png",
-      "filename": "ch.threema.app.libre_1118.apk"
+      "filename": "ch.threema.app.libre_1142.apk"
     },
     {
       "name": "KryptEY",
@@ -154,12 +154,12 @@
       "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
-      "name": "Telegram 12.7.2",
+      "name": "Telegram 12.8.0",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "67439",
+      "version": "69139",
       "icon": "Telegram.png",
-      "filename": "Telegram1.apk"
+      "filename": "Telegram.apk"
     },
     {
       "name": "Telegram-X-0.28.3.1785",
