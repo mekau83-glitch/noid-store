@@ -202,12 +202,12 @@
       "filename": "Tutanota_332.260303.0_apkcombo.com.apk"
       },
       {
-      "name": "XAP install",
-            "desc": "file install",
-      "pname": "com.wuliang.xapkinstaller",
-      "version": "162",
-      "icon": "xapk.png",
-      "filename": "XAPK.Installer_4.6.4.1.apk"
+      "name": "MS Excel",
+            "desc": "MS Excel Spreadsheets",
+      "pname": "com.microsoft.office.excel",
+      "version": "2006064003",
+      "icon": "Excel.png",
+      "filename": "Microsoft+Excel_+Spreadsheets_16.0.19822.20104_APKPure.apk"
     }
   ]
 }
