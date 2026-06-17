@@ -43,11 +43,11 @@
     },
           {
       "name": "NOiD",
-      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (10/05/26) latest patch updates fix group message dissappearing timer, UI update with new themes, QR contact add function",
+      "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (17/06/26) latest patch updates fix.",
       "pname": "com.securenet.chat",
-      "version": "19",
+      "version": "20",
       "icon": "noid.png",
-      "filename": "NOiD_1.2.4+19.apk"
+      "filename": "NOiD_1.2.5+20.apk"
     },
     {
       "name": "Simplenote",
