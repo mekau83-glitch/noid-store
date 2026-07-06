@@ -34,14 +34,14 @@
       "filename": "session-1.33.4-universal-play-release.apk"
     },
     {
-      "name": "Atomic wallet 1.41.5",
-                "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds.",
+      "name": "Atomic wallet 1.43.0",
+      "desc": "Atomic Wallet is a non-custodial decentralized wallet. It means that you own your backup phrase and private keys, thus, you fully control your funds, latest update features POLYMARKET.",
       "pname": "io.atomicwallet",
-      "version": "14105",
+      "version": "14300",
       "icon": "wallet.png",
-      "filename": "atomicwallet-1.41.5.apk"
+      "filename": "atomicwallet-1.43.0.apk"
     },
-          {
+    {
       "name": "NOiD",
       "desc": "MAJOR UPDATE, Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (02/07/26) latest patch and bug fix update.",
       "pname": "com.securenet.chat",
@@ -197,9 +197,9 @@
       "name": "Tuta Mail",
             "desc": "Tuta automatically encrypts all your data end-to-end with post-quantum cryptography which makes it the safest email provider.",
       "pname": "de.tutao.tutanota",
-      "version": "396603",
+      "version": "396665",
       "icon": "Tuta.png",
-      "filename": "Tutanota_332.260303.0_apkcombo.com.apk"
+      "filename": "Tutanota_353.260624.0_apkcombo.com.apk"
       },
       {
       "name": "MS Excel",
