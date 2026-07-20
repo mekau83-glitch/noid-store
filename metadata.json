@@ -18,14 +18,6 @@
       "filename": "com.cheogram.android_4206404.apk"
     },
     {
-      "name": "Signal v8.9.1",
-      "desc": "Signal is an open-source, encrypted messaging service for instant messaging, voice calls, and video calls. The instant messaging function includes sending text, voice notes, images, videos, and other files. Communication may be one-to-one between users or may involve group messaging",
-      "pname": "org.thoughtcrime.securesms",
-      "version": "168401",
-      "icon": "signal.png",
-      "filename": "Signal-Android-website-prod-universal-release-8.9.1.apk"
-      },
-    {
       "name": "Session",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
@@ -48,38 +40,6 @@
       "version": "23",
       "icon": "noid.png",
       "filename": "NOiD_1.3.0+23.apk"
-    },
-    {
-      "name": "Simplenote",
-            "desc": "Cloud notes app",
-      "pname": "com.automattic.simplenote",
-      "version": "169",
-      "icon": "notes.png",
-      "filename": "Simplenote-release.apk"
-    },
-    {
-      "name": "Cellcrypt Enterprise",
-            "desc": "Military-grade encrypted calls, messaging and file transfer with dual-layer post-quantum protection (Kyber + Classic McEliece).",
-      "pname": "com.cellcrypt.nextgen",
-      "version": "401600001",
-      "icon": "cellcrypt.png",
-      "filename": "Cellcrypt_Enterprise.apk"
-    },
-    {
-      "name": "SecureCrypt",
-            "desc": "SecureCrypt features industry leading security features and strong, E2EE to secure global voice and data communications.",
-      "pname": "com.app.securecryptandroidpro",
-      "version": "1",
-      "icon": "SecureCrypt.png",
-      "filename": "com.app.securecryptandroidpro_1.9.3.apk"
-    },
-    {
-      "name": "PlanetGPS",
-            "desc": "Protect your business with the best truck GPS tracker in Canada. We provide a complete tracking tool that you can access anywhere you are!",
-      "pname": "com.planetgpsplus.app",
-      "version": "10027",
-      "icon": "PlanetGPS.png",
-      "filename": "PlanetGPS_1.27_APKPure.apk"
     },
     {
       "name": "Molly",
@@ -130,28 +90,12 @@
       "filename": "com.amnesica.kryptey_v0.1.5-release.apk"
     },
     {
-      "name": "Safe Notes",
-            "desc": "Local Notes Application",
-      "pname": "com.trisven.safenotes",
-      "version": "10",
-      "icon": "SafeNotes.png",
-      "filename": "safenotes-2.3.0-all.apk"
-    },
-        {
       "name": "Standard Notes",
             "desc": "Standard Notes is a free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices.",
       "pname": "com.standardnotes",
       "version": "3005189",
       "icon": "Standard.png",
       "filename": "app-prod-release.apk"
-    },
-    {
-      "name": "Snapchat",
-            "desc": "",
-      "pname": "com.snapchat.android",
-      "version": "157172",
-      "icon": "Snapchat.png",
-      "filename": "Snapchat_13.7.0.42_APKPure.apk"
     },
     {
       "name": "Telegram 12.8.0",
@@ -176,22 +120,6 @@
       "version": "2016052810",
       "icon": "TorBrowser.jpeg",
       "filename": "tor-browser-android-aarch64-14.0.1.apk"
-     },
-     {
-      "name": "WhatsApp 2.26.9.73",
-            "desc": "",
-      "pname": "com.whatsapp",
-      "version": "260907304",
-      "icon": "WhatsApp.png",
-      "filename": "WhatsApp.apk"
-     },
-     {
-      "name": "Threema Work 6.1.3k",
-            "desc": "Enterprise Secure and private messaging",
-      "pname": "ch.threema.app.work",
-      "version": "1087",
-      "icon": "ThreemaWork.png",
-      "filename": "googleplay_work-universal-release.apk"
       },
       {
       "name": "Tuta Mail",
