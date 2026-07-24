@@ -42,12 +42,12 @@
       "filename": "NOiD_1.3.0+23.apk"
     },
     {
-      "name": "Molly",
+      "name": "Molly v8.19.2-3",
             "desc": "Molly is an independent Signal fork for Android with improved features: Fully FOSS, Contains no proprietary blobs, unlike Signal, Encrypted, Protects database with Local Encryption",
       "pname": "im.molly.app",
-      "version": "167902",
+      "version": "171903",
       "icon": "Molly.png",
-      "filename": "Molly-v8.7.3-2.apk"
+      "filename": "Molly-v8.19.2-3.apk"
     },
     {
       "name": "Mullvadv VPN-2025.8",
@@ -98,12 +98,12 @@
       "filename": "app-prod-release.apk"
     },
     {
-      "name": "Telegram 12.8.0",
+      "name": "Telegram 12.9.0",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "69139",
+      "version": "69669",
       "icon": "Telegram.png",
-      "filename": "Telegram.apk"
+      "filename": "Telegram.1.apk"
     },
     {
       "name": "Telegram-X-0.28.3.1785",
