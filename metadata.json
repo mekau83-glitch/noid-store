@@ -18,12 +18,12 @@
       "filename": "com.cheogram.android_4206404.apk"
     },
     {
-      "name": "Session",
+      "name": "Session 1.33.5",
       "desc": "Session is a private messenger that aims to remove any chance of metadata collection by routing all messages through an onion routing network.",
       "pname": "network.loki.messenger",
-      "version": "4515",
+      "version": "4525",
       "icon": "session.png",
-      "filename": "session-1.33.4-universal-play-release.apk"
+      "filename": "session-1.33.5-universal-play-release.apk"
     },
     {
       "name": "Atomic wallet 1.43.0",
