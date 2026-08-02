@@ -42,12 +42,12 @@
       "filename": "NOiD_1.3.2+25.apk"
     },
     {
-      "name": "Molly v8.19.2-3",
+      "name": "Molly v8.19.2-4",
             "desc": "Molly is an independent Signal fork for Android with improved features: Fully FOSS, Contains no proprietary blobs, unlike Signal, Encrypted, Protects database with Local Encryption",
       "pname": "im.molly.app",
-      "version": "171903",
+      "version": "171904",
       "icon": "Molly.png",
-      "filename": "Molly-v8.19.2-3.apk"
+      "filename": "Molly-v8.19.2-4.apk"
     },
     {
       "name": "Mullvadv VPN-2025.8",
