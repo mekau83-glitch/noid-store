@@ -98,12 +98,12 @@
       "filename": "app-prod-release.apk"
     },
     {
-      "name": "Telegram 12.9.0",
+      "name": "Telegram 12.9.2",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "69669",
+      "version": "69919",
       "icon": "Telegram.png",
-      "filename": "Telegram.1.apk"
+      "filename": "Telegram.2.apk"
     },
     {
       "name": "Telegram-X-0.28.3.1785",
