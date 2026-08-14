@@ -67,11 +67,11 @@
     },
     {
       "name": "Protocol by NOiD",
-            "desc": "Protocol by NOid, utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate. Update 21/07/26-UI update.",
+      "desc": "Protocol by NOid, utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate. Update 14/08/26-file save download update.",
       "pname": "com.securenet.protocol",
-      "version": "66",
+      "version": "67",
       "icon": "Protocol1.png",
-      "filename": "protocol_1.0.0.apk"
+      "filename": "protocol_1.0.1.apk"
     },
     {
       "name": "Threema Libre 6.4.2l",
