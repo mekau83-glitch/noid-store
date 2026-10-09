@@ -35,11 +35,11 @@
     },
     {
       "name": "NOiD",
-      "desc": "Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (28/09/26) fix update.",
+      "desc": "Updated User Interface, Voice messaging with voice changer, one time secret picture option, built in calculator and currency converter. Advanced security with Millitary Grade Quad layer with Diffie-Hellman key exchange, AES-256, ChaCha20-Poly1305, X25519HKDF encryption. (08/10/26) fix update.",
       "pname": "com.securenet.chat",
-      "version": "29",
+      "version": "31",
       "icon": "noid.png",
-      "filename": "NOiD_1.3.6+29.apk"
+      "filename": "NOiD_1.3.8+31.apk"
     },
     {
       "name": "Molly v8.19.2-4",
