@@ -13,9 +13,9 @@
       "name": "Cheogram Burner Caller and SMS",
       "desc": "Cheogram Caller and SMS. Users can setup a second burner number, call and text like a regular phone number. App requires payment within the app for the service",
       "pname": "com.cheogram.android",
-      "version": "4206404",
+      "version": "4206504",
       "icon": "cheogram.png",
-      "filename": "com.cheogram.android_4206404.apk"
+      "filename": "com.cheogram.android_4206504.apk"
     },
     {
       "name": "Session 1.33.5",
@@ -50,20 +50,20 @@
       "filename": "Molly-v8.19.2-4.apk"
     },
     {
-      "name": "Mullvadv VPN-2025.8",
+      "name": "Mullvadv VPN-2026.12",
             "desc": "Free the internet from mass surveillance and censorship. Fight for privacy with Mullvad VPN",
       "pname": "net.mullvad.mullvadvpn",
-      "version": "25089000",
+      "version": "26129000",
       "icon": "MullvadVPN.png",
-      "filename": "MullvadVPN-2025.8.apk"
+      "filename": "MullvadVPN-2026.12.apk"
     },
     {
-      "name": "ProtonMail-7.0.11_14528",
+      "name": "ProtonMail-7.11.5_18317",
             "desc": "ProtonMail is a highly-regarded email service for users prioritizing privacy and security due to its end-to-end encryption and Swiss jurisdiction",
       "pname": "ch.protonmail.android",
-      "version": "14528",
+      "version": "18317",
       "icon": "ProtonMail.png",
-      "filename": "ProtonMail-7.0.11_14528.apk"
+      "filename": "ProtonMail-7.11.5_18317.apk"
     },
     {
       "name": "Protocol by NOiD",
@@ -74,12 +74,12 @@
       "filename": "protocol_1.0.1.apk"
     },
     {
-      "name": "Threema Libre 6.4.2l",
+      "name": "Threema Libre 6.5.3l",
             "desc": "In Threema Libre, there’s no single line of code that would require a proprietary software library from Google or any other third party. Push notifications, for example, will only be delivered using Threema Push, and a fallback to Google’s push service is ruled out from the outset. Since Threema Libre also supports reproducible builds, it’s comparatively easy to verify that the installed app cannot leak any data to Google. And because the whole code including all components is open source, the app can be audited in its entirety.",
       "pname": "ch.threema.app.libre",
-      "version": "1142",
+      "version": "1216",
       "icon": "threema_libre.png",
-      "filename": "ch.threema.app.libre_1142.apk"
+      "filename": "ch.threema.app.libre_1216.apk"
     },
     {
       "name": "KryptEY",
@@ -93,17 +93,17 @@
       "name": "Standard Notes",
             "desc": "Standard Notes is a free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices.",
       "pname": "com.standardnotes",
-      "version": "3005189",
+      "version": "3005233",
       "icon": "Standard.png",
       "filename": "app-prod-release.apk"
     },
     {
-      "name": "Telegram 12.9.2",
+      "name": "Telegram 12.10.6",
             "desc": "Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.",
       "pname": "org.telegram.messenger.web",
-      "version": "69919",
+      "version": "71129",
       "icon": "Telegram.png",
-      "filename": "Telegram.2.apk"
+      "filename": "Telegram.apk"
     },
     {
       "name": "Telegram-X-0.28.3.1785",
@@ -117,9 +117,9 @@
       "name": "Tor Browser",
             "desc": "Deep Web Browser",
       "pname": "org.torproject.torbrowser",
-      "version": "2016052810",
+      "version": "2016187202",
       "icon": "TorBrowser.jpeg",
-      "filename": "tor-browser-android-aarch64-14.0.1.apk"
+      "filename": "tor-browser-android-aarch64-15.0.24.apk"
       },
       {
       "name": "Tuta Mail",
