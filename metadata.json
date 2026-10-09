@@ -136,6 +136,14 @@
       "version": "2006064003",
       "icon": "Excel.png",
       "filename": "Microsoft+Excel_+Spreadsheets_16.0.19822.20104_APKPure.apk"
+      },
+      {
+      "name": "We Chat 8.0.77",
+      "desc": "Chat and make calls with friends, share your life's favorite Moments, enjoy mobile payment features, and much more.",
+      "pname": "com.tencent.mm",
+      "version": "3160",
+      "icon": "wechat.png",
+      "filename": "com.tencent.mm_8.0.77-3160_minAPI24.arm64-v8a.nodpi._apkmirror.com.apk"
     }
   ]
 }
