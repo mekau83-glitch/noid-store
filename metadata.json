@@ -144,6 +144,22 @@
       "version": "3160",
       "icon": "wechat.png",
       "filename": "com.tencent.mm_8.0.77-3160_minAPI24.arm64-v8a.nodpi._apkmirror.com.apk"
+      },
+      {
+      "name": "Wispr v1.3.3",
+      "desc": "Wispr by CryptoDATA is an end-to-end encrypted super app and communication platform developed by CryptoDATA Tech S.R.L. that combines secure messaging, audio/video calls, file transfers, and private banking services.",
+      "pname": "com.cryptodata.wispr",
+      "version": "83200",
+      "icon": "Screenshot_20261012_161349_Google.jpg",
+      "filename": "Wispr_1.3.3_APKPure.apk"
+      },
+      {
+      "name": "App Centre",
+      "desc": "App Centre by Unplugged. Registration on the app and update within app is required to use",
+      "pname": "com.unplugged.store",
+      "version": "66",
+      "icon": "Screenshot_20261012_163159_UP.Store.jpg",
+      "filename": "up_store.apk"
     }
   ]
 }
