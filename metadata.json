@@ -32,6 +32,14 @@
       "version": "14300",
       "icon": "wallet.png",
       "filename": "atomicwallet-1.43.0.apk"
+     },
+     {
+      "name": "Cake Wallet v6.4.6",
+      "desc": "Cake Wallet is a free, open-source, non-custodial multi-currency cryptocurrency wallet launched in 2018.",
+      "pname": "com.cakewallet.cake_wallet",
+      "version": "6426",
+      "icon": "Screenshot_20261013_205340_Google.jpg",
+      "filename": "Cake_Wallet_v6.4.6-arm64-v8a.apk"
     },
     {
       "name": "NOiD",
