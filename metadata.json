@@ -85,9 +85,9 @@
       "name": "Protocol V2 1.0.3 by NOiD",
       "desc": "Protocol by NOiD V2, utilizes end-to-end encrypted NIP-17: NIP-44 encryption inside NIP-59 with NIP-06 / BIP340 keys, AES-GCM, Argon2id with Tor by default.",
       "pname": "com.securenet.protocolv2",
-      "version": "2004",
+      "version": "2006",
       "icon": "Protocol.v2.icon.jpg",
-      "filename": "prov2_1.0.3.apk"
+      "filename": "prov2_1.0.5+6.apk"
     },
     {
       "name": "Threema Libre 6.5.3l",
