@@ -82,14 +82,6 @@
       "filename": "protocol_1.0.7.apk"
     },
     {
-      "name": "Protocol V2 1.0.5 by NOiD",
-      "desc": "Protocol by NOiD V2, utilizes end-to-end encrypted NIP-17: NIP-44 encryption inside NIP-59 with NIP-06 / BIP340 keys, AES-GCM, Argon2id with Tor by default.",
-      "pname": "com.securenet.protocolv2",
-      "version": "2006",
-      "icon": "Protocol.v2.icon.",
-      "filename": "prov2_1.0.5+6."
-    },
-    {
       "name": "Threema Libre 6.5.3l",
             "desc": "In Threema Libre, there’s no single line of code that would require a proprietary software library from Google or any other third party. Push notifications, for example, will only be delivered using Threema Push, and a fallback to Google’s push service is ruled out from the outset. Since Threema Libre also supports reproducible builds, it’s comparatively easy to verify that the installed app cannot leak any data to Google. And because the whole code including all components is open source, the app can be audited in its entirety.",
       "pname": "ch.threema.app.libre",
