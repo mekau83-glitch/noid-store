@@ -75,7 +75,7 @@
     },
     {
       "name": "Protocol by NOiD",
-      "desc": "Protocol by NOid, MAJOR UPDATE utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate. Update 05/11/26- Complete overall update of app. REMOVE PREVIOUS VERSION FROM DEVICE BY UNINSTALLING IT AND DOWNLOADLOAD NEW VERSION FROM HERE.",
+      "desc": "Protocol by NOiD, MAJOR UPDATE utilizes Tor for it's anonymity network and data transport security using the Onion v3 protocol, it uses the signal protocol to encrypt all data before sending it over the Tor network directly to the receiver, dual layer end-to-end encryption without using any server or service. Double triple Diffie-Hellman end to end encryption, Cryptographic Identity Verification, Live Voice Calls, 24 hour disappearing messages by default, Both users have to add each others addresses to be able to communicate. Update 05/11/26- Complete overall update of app. REMOVE PREVIOUS VERSION FROM DEVICE BY UNINSTALLING IT AND DOWNLOADLOAD NEW VERSION FROM HERE.",
       "pname": "com.securenet.protocolv3",
       "version": "74",
       "icon": "Protocol1.png",
