@@ -66,6 +66,14 @@
       "filename": "MullvadVPN-2026.12.apk"
     },
     {
+      "name": "OpenKeychain",
+      "desc": "OpenKeychain helps you communicate more privately and securely. It uses encryption to ensure that your messages can be read only by the people you send them to, others can send you messages that only you can read, and these messages can be digitally signed so the people getting them are sure who sent them.",
+      "pname": "org.sufficientlysecure.keychain",
+      "version": "60400",
+      "icon": "keychain.png",
+      "filename": "org.sufficientlysecure.keychain_60400.apk"
+    },
+    {
       "name": "ProtonMail-7.11.5_18317",
             "desc": "ProtonMail is a highly-regarded email service for users prioritizing privacy and security due to its end-to-end encryption and Swiss jurisdiction",
       "pname": "ch.protonmail.android",
