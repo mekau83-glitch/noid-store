@@ -10,6 +10,14 @@
       "filename": "NOiD_Store.apk"
     },
     {
+      "name": "Graphene Messenger",
+      "desc": "Graphene Messenger is a messaging application that originated as a fork of the renowned Signal app, aiming to provide a more secure, privacy-respecting, and fully open-source alternative. Download this app as a Molly replacement if needed.",
+      "pname": "it.aitechnology.graphene",
+      "version": "26100804",
+      "icon": "Gmessenger.png",
+      "filename": "app-prod-website-release-signed.apk"
+    },
+    {
       "name": "Cheogram Burner Caller and SMS",
       "desc": "Cheogram Caller and SMS. Users can setup a second burner number, call and text like a regular phone number. App requires payment within the app for the service",
       "pname": "com.cheogram.android",
